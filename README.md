@@ -1,9 +1,13 @@
-# School analysis and summary (Schools and data used in this project are for study purpose only).
+#School analysis and summary 
 
-In this project in the first section called "Local Government Area Summary" you will see the amount of schools, total students, total budget, the averages of maths and reading and an overall passing students in the local area.
+#(Please note that the data used in this project are for study purpose only).
 
-In the second section you will see a school summary with school type, total students, total school budget, student budget, averages maths and reading score and % passing students.
+The project is divided into a four main sections. The first section is called "Local Government Area Summary", which displays the number of schools, total students, total budget, and the averages of math and reading scores, along with an overall passing percentage in the local area.
 
-The third and general analysis was to sort the top and bottom 5 schools per % overall passing.
+The second called "School Summary" section provides a summary of individual schools, including their school type, total students, total school budget, student budget, average math and reading scores, and the percentage of passing students.
 
-The following analysis is trying to correlate the year(grade) of students, student budget, school size and type of school with the averages of maths and reading and the % overall passing.
+The third section is a simple analysis that sorts the top and bottom 5 schools based on their overall passing percentage. 
+
+The last following analysis explores the correlation between the grade(year) level of students, student budget, school size, school type, and the averages of math and reading scores, as well as the overall passing percentage.
+
+The objective of this project is to get a better understand of pandas data manipulation and analysis.
