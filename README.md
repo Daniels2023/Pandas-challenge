@@ -1,6 +1,4 @@
-##School analysis and summary 
-
-##(Please note that the data used in this project are for study purpose only).
+##School analysis and summary. (Please note that the data used in this project are for study purpose only).
 
 The project is divided into a four main sections. The first section is called "Local Government Area Summary", which displays the number of schools, total students, total budget, and the averages of math and reading scores, along with an overall passing percentage in the local area.
 
